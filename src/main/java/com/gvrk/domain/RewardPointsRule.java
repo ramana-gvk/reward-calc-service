@@ -1,8 +1,8 @@
 package com.gvrk.domain;
 
+import jakarta.validation.constraints.Min;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import javax.validation.constraints.Min;
 
 @Data
 @AllArgsConstructor
